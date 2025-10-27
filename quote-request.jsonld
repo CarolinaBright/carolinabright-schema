@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Carolina Bright Holiday Lights",
+  "image": "https://lh3.googleusercontent.com/sitesv/AAzXCkdIwa7qK9e4ODeFM03lAzkqJVLMAoSF0ewwGrz2LjSjdMNOfovJHQuNmcqOwjYS0z-N-fjRuU4e_B2Z7qMRUj0YQBv00CHjEDK4etA1dvFmdA0p1LcEXt5rGKEtkxotKM4B1gQQNTZhCfhjhW1JkVmGhfSiUNDiYVOK3VCUDGVvKrGK-DVIbZwlkZOK5Aqy0zZLZ8rzwgyqozJsgTp98-zTD41M53ytEeCeG8I=w1280",
+  "telephone": "(910) 985-2241",
+  "email": "carolinabrightholidaylightsllc@gmail.com",
+  "url": "https://www.carolinabrightholidaylights.com",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Spring Lake",
+    "addressRegion": "NC",
+    "addressCountry": "US"
+  },
+  "openingHours": [
+    "Mo-Sa 00:00-23:59"
+  ],
+  "sameAs": [
+    "https://www.yelp.com/biz/carolina-bright-holiday-lights-spring-lake",
+    "https://www.facebook.com/people/Carolina-Bright-Holiday-Lights/61552694283126/",
+    "https://nextdoor.com/pages/carolina-bright-holiday-lights-spring-lake-nc/",
+    "https://www.google.com/maps/place/Carolina+Bright+Holiday+Lights"
+  ]
+}
